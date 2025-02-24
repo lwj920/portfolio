@@ -2342,9 +2342,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton15{
-  position: absolute;
-  left: 1400px;
-  top: 50px;
+  position: fixed;
+  left: 1610px;
+  top: 110px;
   padding: 5px 10px;
 }
 
