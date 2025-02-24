@@ -932,9 +932,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton1{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1032,9 +1032,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton2{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1131,9 +1131,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton3{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1229,9 +1229,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton4{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1326,9 +1326,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton5{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1424,9 +1424,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton6{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1528,9 +1528,10 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton7{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1639,9 +1640,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton8{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1737,9 +1738,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton9{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1835,9 +1836,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton10{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -1936,9 +1937,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton11{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -2037,9 +2038,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton12{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -2139,9 +2140,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton13{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -2240,9 +2241,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton14{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
@@ -2341,9 +2342,9 @@ width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
 #modalCloseButton15{
-  position: fixed;
-  left: 1610px;
-  top: 110px;
+  position: absolute;
+  left: 1400px;
+  top: 50px;
   padding: 5px 10px;
 }
 
