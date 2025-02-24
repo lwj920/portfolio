@@ -841,11 +841,12 @@ width: 100%;
 
 .button{
   outline: none;
-  background: #eee;
-  border: 1px solid gray;
+  background: none;
+  border: none;
+  font-size: 20px;
 }
 .button:hover{
-  background: #ddd;
+  background: none;
 }
 
 #modalOpenButton1, #modalCloseButton1 {
